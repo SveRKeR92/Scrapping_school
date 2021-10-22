@@ -1,0 +1,1 @@
+J'ouvre le lien Zoom et change d'onglet, mais valider l'alert ne marche pas.
